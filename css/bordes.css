@@ -1,0 +1,57 @@
+h1{
+	text-align: center ;
+	font-size: 72px;
+	color : yellow;
+}
+p {
+	/*tamaño de la fuente 
+	em 1em =16 px = 34px / 16px = 2125 em*/
+	font-size: 2.125em;
+	color : blue;
+	/*tipo de fuente */
+	font-family: Georgia,serif;
+	/*peso de la fuente :norma,bold,bolder,lighter,100 a 900
+	inherit*/
+	font-kerning: 900;
+	/*Estilo de la fuente normal, 
+	italic,oblique*/
+	font-variant: small-caps;
+	/*Interlineado de texto*/
+	line-height: 200%;
+	
+
+
+}
+.par1{
+	border:red thin solid;
+}
+.par2{
+	border:yellow medium solid;
+}
+.par3{
+	border:green thick solid;
+}
+.par4{
+	border:blue 20px double;
+}
+.par5{
+	border:red 20px dotted;
+}
+.par6{
+	border:green 20px dashed;
+}
+.par7{
+	border:yellow 20px groove;
+}
+.par8{
+	border:blue 20px ridge;
+}
+.par9{
+	border:green 20px inset;
+}
+.par10{
+	border:red 20px outset;
+}
+em{
+	font-weight: bolder;
+}
