@@ -1,0 +1,29 @@
+body{
+	background-color:yellow;
+}
+h1{
+	text-align: center;
+}
+p{
+	font-size: 72px;
+}
+em{
+	background-color: blue; 
+	font-size: 70px;
+
+	}
+strong{
+	font-size: 60px;
+}
+.cur1{
+	/*propiedad de fondo*/
+	background-color: green; 
+	font-size: 60px;
+}
+.cur2{
+	background-color: green; 
+	font-size: 60px;
+}
+p em {
+	background-color: blue; 
+}
